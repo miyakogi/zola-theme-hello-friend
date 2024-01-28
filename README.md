@@ -8,7 +8,7 @@ This theme only supports Zola v0.18.0 or newer.
 
 ```
 cd themes
-git clone https://github.com/miyakogi/zola-theme-hello-friend
+git clone https://github.com/miyakogi/zola-theme-hello-friend hello-friend
 ```
 
 Then edit `config.toml` to use this theme:
